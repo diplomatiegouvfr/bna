@@ -1,0 +1,11 @@
+travail_conversation
+question_resultat
+agent_document
+impossibilite_inconfort
+environnement_crise
+temps_lieu
+travail_reseau
+connexion_journee
+gestion_technologie
+outil_environnement
+organisation_travail

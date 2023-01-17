@@ -1,0 +1,2 @@
+Ce répertoire contient un exemple de traitement complet réel
+(certaines données ont fait l'objet d'anonymisation)

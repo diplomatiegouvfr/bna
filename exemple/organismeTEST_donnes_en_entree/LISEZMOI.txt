@@ -1,0 +1,3 @@
+Ce répertoire contient un exemple de donnes transmises pour traitement au
+format csv/xslx
+(certaines données ont fait l'objet d'anonymisation)

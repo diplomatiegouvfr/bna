@@ -1,0 +1,97 @@
+reseau_productivite passable.
+volonte_equipement passable.
+crise_efficacite assez satisfaisant.
+effort_ergonomie tres passable.
+confinement_lecteur passable.
+panne_outil passable.
+reseau_teletravail tres satisfaisant.
+questionnaire_materiel passable.
+probleme_metier tres passable.
+securite_travail tres passable.
+outil_ordinateur satisfaisant.
+obligation_bureau tres passable.
+ministere_service passable.
+environnement_mission passable.
+ordinateur_erreur tres passable.
+travail_conversation insatisfaisant.
+probleme_soir passable.
+ecran_bureau passable.
+administration_teletravail satisfaisant.
+ligne_temps tres passable.
+ecran_messagerie tres passable.
+application_archeologie passable.
+travail_resilience tres insatisfaisant.
+acces_securite satisfaisant.
+teletravail_direction passable.
+materiel_probleme passable.
+pouvoir_teletravail passable.
+groupe_travail passable.
+reseau_pc tres passable.
+projet_stockage passable.
+communication_besoin satisfaisant.
+messagerie_contexte assez satisfaisant.
+environnement_fonction passable.
+poste_ecran tres passable.
+question_resultat insatisfaisant.
+souhait_outil passable.
+utilisateur_ecran passable.
+teletravail_tableau passable.
+agent_document insatisfaisant.
+culture_travail satisfaisant.
+information_outil passable.
+ecran_teletravail passable.
+reseau_carte satisfaisant.
+patrimoine_totalite passable.
+XXXX_courriel passable.
+application_panneau passable.
+impossibilite_inconfort insatisfaisant.
+maniere_travail satisfaisant.
+outil_besoin passable.
+collectivite_ministere passable.
+outil_formation assez passable.
+formation_design passable.
+diminution_XXXX tres insatisfaisant.
+environnement_ministere satisfaisant.
+conversation_blocage passable.
+environnement_crise insatisfaisant.
+reseau_appareil passable.
+travail_document passable.
+progres_visiteur assez insatisfaisant.
+probleme_XXX tres passable.
+temps_lieu insatisfaisant.
+outil_tendance tres satisfaisant.
+outil_quotidien passable.
+reseau_pc tres passable.
+ordinateur_besoin passable.
+bureau_mission passable.
+travail_agent satisfaisant.
+internet_dossier tres passable.
+metier_teletravail passable.
+utilisation_quotidien tres satisfaisant.
+instant_XXXXXX passable.
+charge_XXXXXX satisfaisant.
+ministere_ligne passable.
+effort_XXXXXX tres passable.
+travail_reseau insatisfaisant.
+activite_question passable.
+connexion_journee insatisfaisant.
+evolution_adaptation passable.
+effort_outil assez satisfaisant.
+ministere_agent passable.
+capacite_assistance passable.
+outil_usage passable.
+cadre_ministere satisfaisant.
+ecran_travail passable.
+questionnaire_outil passable.
+gestion_technologie insatisfaisant.
+equipement_ecran passable.
+logiciel_teletravail passable.
+reseau_application tres passable.
+outil_formation assez passable.
+bureau_tache passable.
+outil_environnement insatisfaisant.
+urbanisation_outil tres passable.
+organisation_travail insatisfaisant.
+metier_question satisfaisant.
+ergonomie_teletravail assez passable.
+ordinateur_teletravail passable .

@@ -1,0 +1,15 @@
+effort_ergonomie
+probleme_metier
+securite_travail
+obligation_bureau
+ordinateur_erreur
+ligne_temps
+ecran_messagerie
+reseau_pc
+poste_ecran
+probleme_XXX
+reseau_pc
+internet_dossier
+effort_XXXXXX
+reseau_application
+urbanisation_outil

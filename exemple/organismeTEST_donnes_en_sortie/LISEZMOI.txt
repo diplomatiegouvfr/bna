@@ -1,0 +1,7 @@
+Ce répertoire contient un exemple de donnes produites après traitement au
+format ppt/pdf
+(certaines données ont fait l'objet d'anonymisation)
+
+la première passe exprime la liste des couples reconnus et donc retenus
+la deuxième passe exprime les sentiments sur 9 bandes
+la troisieme passe est un traitement de création de visuels avec adjonction de procédés comme l'analyse de  la distribution de ces sentiments par rapport à la loi normale
